@@ -2,7 +2,7 @@
 
 Theme Training
 
-A company theme html files to learn and using and django keywords in html
+Using Django elements in sample html files
 
 ## Installation
 
