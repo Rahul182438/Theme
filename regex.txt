@@ -1,0 +1,20 @@
+Try Error
+as{2}.*\.
+
+(as{2}.*)\.(css)
+
+
+(as{2}.*)(\.css)
+{% static '$1$2' %}
+
+
+(as{2}.*)(\.\w{2,3})
+
+
+
+The Working One is Below ->
+
+To Find = (assets.*)(\.\w{2,3})
+To Replace = {% static '$1$2' %}
+
+
