@@ -23,13 +23,13 @@ C) Activate the environment and install the dependecies provided in the file req
 Clone the project
 
 ```
-  git clone https://github.com/Rahul182438/Yodaplus.git
+  git clone https://github.com/Rahul182438/Theme.git
 ```
 
 Go to the project directory
 
 ```
-  cd quiz
+  cd Theme
 ```
 
 
